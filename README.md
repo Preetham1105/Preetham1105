@@ -2,7 +2,7 @@
 
 # 💫 Hi, I'm Preetham 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Engineer;DSA+%7C+Problem+Solving+Enthusiast;C+%7C+C%2B%2B+%7C+Java+Developer;Always+Learning+New+Things&center=true&width=500&height=50)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;DSA+%7C+Problem+Solving+Enthusiast;C+%7C+C%2B%2B+%7C+Java+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,14 +42,11 @@
 ---
 
 ## 🧠 LeetCode Stats
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/preetham1105?theme=dark&font=Baloo)
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Preetham1105&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 <div align="center">
 
