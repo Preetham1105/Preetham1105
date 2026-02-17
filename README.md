@@ -33,23 +33,15 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Preetham1105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Preetham1105&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Preetham1105&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Preetham1105&theme=default&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Preetham1105&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Preetham1105&theme=default&hide_border=false&layout=compact)
 
 ---
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/preetham1105?theme=dark&font=Baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/preetham1105?theme=light&font=Baloo)
 
----
-
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Preetham1105&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
